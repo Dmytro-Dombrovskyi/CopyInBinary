@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1393946697 source:e:\hlam\arraywrite\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
+1393943187 source:e:\hlam\arraywrite\tempname.cpp
+	<iostream>
+	<cstdio>
+
